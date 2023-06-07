@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Active Directory</b>
-- [Configuring On-premises Active Directory within Azure VMs](https://github.com/michael-lazenby/configure-ad)
+- <b>Wireshark practice</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michael-lazenby/configure-ad)
 
 - <b>Wireshark practice</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michael-lazenby/azure-network-protocols)
