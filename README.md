@@ -6,7 +6,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michael-lazenby/configure-ad)
 
 - <b>Wireshark practice</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michael-lazenby/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols(ICMP, SSH, RDP, DHCP, and DNS](https://github.com/michael-lazenby/azure-network-protocols)
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/michael-lazenby/osticket-prereqs)
