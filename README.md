@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Azure Virtual Machines](https://github.com/michael-lazenby/Azure-VM)
+  - [Creating Azure Virtual Machines](https://github.com/michael-lazenby/Creating-Azure-VM)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michael-lazenby/configure-ad)
 
