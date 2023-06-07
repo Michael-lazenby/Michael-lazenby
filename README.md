@@ -2,13 +2,17 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Active Directory</b>
+- [Configuring On-premises Active Directory within Azure VMs](https://github.com/michael-lazenby/configure-ad)
+
+- <b>Wireshark practice</b>
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michael-lazenby/azure-network-protocols)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/michael-lazenby/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/michael-lazenby/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/michael-lazenby/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michael-lazenby/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/michael-lazenby/azure-network-protocols)
+
 
 <h2>🤳Connect with me:</h2>
 
