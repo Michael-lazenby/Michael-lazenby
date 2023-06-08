@@ -10,11 +10,6 @@
 - <b>Wireshark practice</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols(ICMP, SSH, RDP, DHCP, and DNS)](https://github.com/michael-lazenby/azure-network-protocols)
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/michael-lazenby/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/michael-lazenby/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/michael-lazenby/ticket-lifecycle)
-
 
 <h2>🤳Connect with me:</h2>
 
