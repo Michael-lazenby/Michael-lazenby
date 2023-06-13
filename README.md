@@ -7,7 +7,7 @@
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michael-lazenby/configure-ad)
 
-- <b>Creating SQL database PaaS</b>
+- <b>SQL database PaaS</b>
   - [Creating and deploying a SQL database](https://github.com/michael-lazenby/configure-ad)
 
 - <b>Wireshark practice</b>
