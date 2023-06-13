@@ -8,7 +8,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michael-lazenby/configure-ad)
 
 - <b>SQL database PaaS</b>
-  - [Creating and deploying a SQL database](https://github.com/michael-lazenby/configure-ad)
+  - [Creating and deploying a SQL database](https://github.com/Michael-lazenby/Provisioning-and-deploying-SQL)
 
 - <b>Wireshark practice</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols(ICMP, SSH, RDP, DHCP, and DNS)](https://github.com/michael-lazenby/azure-network-protocols)
