@@ -10,6 +10,9 @@
 - <b>SQL database PaaS</b>
   - [Creating and deploying a SQL database](https://github.com/Michael-lazenby/Provisioning-and-deploying-SQL)
 
+- <b>Azure Logic Apps</b>
+  - [Automating user creation utilizing Azure Logic Apps](https://github.com/michael-lazenby/configure-ad)
+
 - <b>Wireshark practice</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols(ICMP, SSH, RDP, DHCP, and DNS)](https://github.com/michael-lazenby/azure-network-protocols)
 
