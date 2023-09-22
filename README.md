@@ -6,10 +6,6 @@
   - [Creating Azure Virtual Machines](https://github.com/michael-lazenby/Creating-Azure-VM)
 - <b>Active Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/michael-lazenby/configure-ad)
-
-- <b>SQL database PaaS</b>
-  - [Creating and deploying a SQL database](https://github.com/Michael-lazenby/Provisioning-and-deploying-SQL)
-
 - <b>Azure Logic Apps</b>
   - [Automating user creation utilizing Azure Logic Apps](https://github.com/Michael-lazenby/Automate-User-Creation)
 
